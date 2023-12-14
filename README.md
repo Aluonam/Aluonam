@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 </div>
 
-<br/><br/><br/>
+##
  <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=1036&color=F7E57D&background=00000088&center=true&vCenter=true&repeat=false&random=false&width=470&height=30&lines=+%C2%A1El+desarrollo+web+es+mi+viaje+interminable+de+aprendizaje!" alt="Typing SVG" /></a>
 </div>
