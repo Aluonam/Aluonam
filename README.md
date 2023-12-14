@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img
 </div>
 
+##
 </div>
 <div align="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
@@ -31,11 +32,11 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></img>
 </div>
 
+## 
  <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=1036&color=F7E57D&background=00000088&center=true&vCenter=true&repeat=false&random=false&width=470&height=30&lines=+%C2%A1El+desarrollo+web+es+mi+viaje+interminable+de+aprendizaje!" alt="Typing SVG" /></a>
 </div>
-<br/>
-<br/>
+
 <div align="right">
 	<a href="https://www.linkedin.com/in/paulacanoroman/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     </div>
