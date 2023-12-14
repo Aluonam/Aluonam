@@ -7,7 +7,7 @@
 
 💻 El mundo del desarrollo web es **inmenso y dinámico**. Me apasiona el desarrollo infinito que ofrece. Siempre estoy aprendiendo algo nuevo para **enriquecer mis habilidades** y contribuir a soluciones cada vez más innovadoras y funcionales. 
 
-🌐 ¡El desarrollo web es mi viaje interminable de aprendizaje! 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=1036&color=F7E57D&background=000000BD&center=true&vCenter=true&repeat=false&random=false&width=470&height=30&lines=+%C2%A1El+desarrollo+web+es+mi+viaje+interminable+de+aprendizaje!" alt="Typing SVG" /></a>
 
 💫 Puedes **explorar mis repositorios** para ver algunos de mis proyectos y experiencias. 
 
