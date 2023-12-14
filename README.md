@@ -16,7 +16,14 @@
 
 ### 🛠️ Skills
 
+<div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
 
  
+</div>
 
+
+### ¡Conecta!
+<p align="rigth">
+	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    </p>
