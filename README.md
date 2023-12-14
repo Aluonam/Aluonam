@@ -7,14 +7,10 @@
 
 💻 El mundo del desarrollo web es **inmenso y dinámico**. Me apasiona el desarrollo infinito que ofrece. Siempre estoy aprendiendo algo nuevo para **enriquecer mis habilidades** y contribuir a soluciones cada vez más innovadoras y funcionales. 
 
- <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=1036&color=F7E57D&background=00000088&center=true&vCenter=true&repeat=false&random=false&width=470&height=30&lines=+%C2%A1El+desarrollo+web+es+mi+viaje+interminable+de+aprendizaje!" alt="Typing SVG" /></a>
-</div>
-
 💫 Puedes **explorar mis repositorios** para ver algunos de mis proyectos y experiencias. 
 
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 <div align="center">
  <a href="https://skillicons.dev">
@@ -24,7 +20,7 @@
 </div>
 <div align="left">
 <img src="mysql	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img src="	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img
 </div>
 
 </div>
@@ -32,11 +28,13 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></img
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></img>
-<img src="	https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></img>
 </div>
 
-### ¡Conecta!
-<div align="rigth">
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+ <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=1036&color=F7E57D&background=00000088&center=true&vCenter=true&repeat=false&random=false&width=470&height=30&lines=+%C2%A1El+desarrollo+web+es+mi+viaje+interminable+de+aprendizaje!" alt="Typing SVG" /></a>
+</div>
+
+<div align="right">
+	<a href="https://www.linkedin.com/in/paulacanoroman/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     </div>
-    
