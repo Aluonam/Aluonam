@@ -18,12 +18,14 @@
 
 <div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
-
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,react" />
+  </a>
  
 </div>
 
 
 ### ¡Conecta!
-<p align="rigth">
+<p align="left">
 	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     </p>
