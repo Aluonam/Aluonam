@@ -15,7 +15,7 @@
 ### 👉 Frontend Development
 <div align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest" />
   </a>
  
 </div>
