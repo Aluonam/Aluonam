@@ -7,7 +7,7 @@
 
 💻 El mundo del desarrollo web es **inmenso y dinámico**. Me apasiona el desarrollo infinito que ofrece. Siempre estoy aprendiendo algo nuevo para **enriquecer mis habilidades** y contribuir a soluciones cada vez más innovadoras y funcionales. 
 
-💫 Puedes **explorar mis repositorios** para ver algunos de mis proyectos y experiencias. 
+💫 Puedes **explorar mis repositorios** para ver algunos de mis proyectos y experiencias. Revisa mi LinkedIn para saber más.
 
 
 ## 🛠️ Skills
