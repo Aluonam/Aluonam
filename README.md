@@ -3,11 +3,11 @@
 
  <h3 align="left">👋¡Soy Paula!</h3>
 
-🚀 En mi **búsqueda de soluciones funcionales** e innovadoras en el campo de la salud. Me adentré en el desarrollo web y comencé a realizar cursos y proyectos por mi cuenta. Así comencé a construir **mi propio camino** en esta emocionante disciplina.
+🚀 En mi **búsqueda de soluciones funcionales** e innovadoras en el campo de la salud. Me adentré en el desarrollo web y comencé a realizar cursos, formaciones y proyectos por mi cuenta. Así comencé a construir **mi propio camino** en esta emocionante disciplina.
 
-💻 El mundo del desarrollo web es **inmenso y dinámico**. Me apasiona el desarrollo infinito que ofrece. Siempre estoy aprendiendo algo nuevo para **enriquecer mis habilidades** y contribuir a soluciones cada vez más innovadoras y funcionales. 
+💻 El mundo tecnológico es **inmenso y dinámico**. Me apasiona el desarrollo infinito que ofrece. Siempre estoy analizando dificultades cotidianas y desarrollando productos para **enriquecer mis habilidades** y contribuir a soluciones cada vez más innovadoras y funcionales. 
 
-💫 Puedes **explorar mis repositorios** para ver algunos de mis proyectos y experiencias. Revisa mi LinkedIn para saber más.
+💫 Puedes **explorar mis repositorios** para ver algunos de mis proyectos y experiencias. Revisa mi LinkedIn o contáctame para saber más.
 
 
 ## 🛠️ Skills
